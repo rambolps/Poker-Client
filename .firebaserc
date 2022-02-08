@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "poker-game-af21a": {
+      "hosting": {
+        "Poker-Client": [
+          "poker-game-af21a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "poker-game-af21a"
+  }
+}
