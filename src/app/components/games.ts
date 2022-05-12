@@ -14,3 +14,7 @@ export interface Player {
     Money?: number
     Name?: string
   }
+
+  export interface size{
+      size?:number
+  }

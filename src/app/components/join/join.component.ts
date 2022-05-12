@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { Game, Player } from '../games';
+import { Game, Player, size } from '../games';
 import { Observable } from 'rxjs';
 
 @Component({
