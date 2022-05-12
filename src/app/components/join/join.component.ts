@@ -36,7 +36,11 @@ export class JoinComponent implements OnInit {
     return g;
   }
 
-  
+  createGame() : void {
+
+  }
+
+
   ngOnInit(): void {
     let game : Game = this.getGames();
     console.log(game);
