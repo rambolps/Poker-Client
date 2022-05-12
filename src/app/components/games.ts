@@ -6,7 +6,6 @@ export interface Game {
     SmallBlind?: number
     Turn?: number
     Winner?: number
-    id?: number
   }
   
 export interface Player {
